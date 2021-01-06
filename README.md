@@ -1,7 +1,7 @@
 # Loan-Calculator
 from JS-Beginners at https://github.com/JS-Beginners/mortgage-loan-calculator.git
 
-HTML&CSS not mine but the JavaScript is
+HTML&CSS not mine. JS file contains my original, working JavaScript code (commented out) and the final JavaScript code written after viewing the solution and reflecting.
 
 ## What I Learned
 
