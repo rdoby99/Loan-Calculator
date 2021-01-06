@@ -1,7 +1,6 @@
 let loanAmount = document.querySelector('#amount');
 let interestRate = document.querySelector('#interest_rate');
 let months = document.querySelector('#months');
-let loanCal = document.querySelector('#loancal');
 let payment = document.querySelector('#payment');
 
 interestRate.setAttribute('type', 'number');
